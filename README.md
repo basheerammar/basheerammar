@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basheerammar
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on any Python Based Projects and keen on learning
+- 💞️ I’m looking to collaborate on any Beginner Python Based Projects
 - 📫 How to reach me drop me a message at anytime
 
 <!---
